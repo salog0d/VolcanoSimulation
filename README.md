@@ -25,6 +25,3 @@ El modelo implementa ecuaciones de movimiento bajo la influencia de la gravedad,
 ## Contribución
 Si deseas mejorar la aplicación, abre el archivo en App Designer, realiza los cambios y guarda una nueva versión.
 
-## Licencia
-Este proyecto se distribuye bajo la licencia MIT o según lo definido por el autor.
-
